@@ -1,0 +1,32 @@
+# LLM Settings
+llm:
+  provider: openai
+  model: gpt-4o-mini
+  temperature: 0.7
+  max_tokens: 500
+
+# Embedding Settings
+embeddings:
+  provider: openai
+  model: text-embedding-3-small
+
+# Vector Store Settings
+vectorstore:
+  type: chromadb
+  persist_directory: ./data/chroma
+  collection_name: insurance_knowledge
+
+# Retrieval Settings
+retrieval:
+  chunk_size: 1000
+  chunk_overlap: 200
+  top_k: 3
+
+# Conversation Settings
+conversation:
+  max_history: 10
+  system_message: |
+    You are a helpful life insurance support assistant. Provide accurate,
+    clear information about life insurance policies, coverage, eligibility,
+    and claims process. Always be professional and empathetic.
+    If the answer is not in the context, say so honestly.

@@ -1,0 +1,76 @@
+# Life Insurance Knowledge Base
+
+## Term Life Insurance
+
+Term life insurance provides coverage for a specific period, typically 10, 20, or 30 years.
+It is the most affordable type of life insurance and pays a death benefit if the insured
+passes away during the term.
+
+Key features of term life insurance:
+- Fixed premium payments for the term period
+- Death benefit paid to beneficiaries if the insured dies during the term
+- No cash value accumulation
+- Can be converted to permanent insurance in some cases
+
+Best for: Young families, people with temporary financial obligations, those on a budget
+
+## Whole Life Insurance
+
+Whole life insurance is a type of permanent life insurance that provides coverage for
+your entire lifetime, as long as premiums are paid.
+
+Key features of whole life insurance:
+- Level premiums that never increase
+- Guaranteed death benefit
+- Cash value accumulation that grows over time
+- Potential to earn dividends (for participating policies)
+
+Best for: Long-term financial planning, estate planning, those wanting guaranteed coverage
+
+## Universal Life Insurance
+
+Universal life insurance is a flexible permanent policy that combines a death benefit
+with a cash value component that earns interest.
+
+Key features of universal life insurance:
+- Flexible premium payments
+- Adjustable death benefit
+- Cash value grows based on current interest rates
+- Policy loans can be taken against cash value
+
+Best for: Those wanting flexibility in premiums and death benefit
+
+## Coverage Eligibility
+
+Generally, to qualify for life insurance:
+- Age: Typically 18-75 years old
+- Health: May require medical exam or health questionnaire
+- Lifestyle: Non-smokers get better rates
+- Occupation: High-risk jobs may affect premiums
+
+## Filing a Claim
+
+To file a life insurance claim:
+1. Notify the insurance company promptly after the insured's death
+2. Obtain the death certificate
+3. Complete the claim form provided by the insurer
+4. Submit required documents (death certificate, policy information, beneficiary ID)
+5. Wait for processing (typically 30-60 days)
+
+Required documents typically include:
+- Certified death certificate
+- Original policy document
+- Claimant's statement
+- Beneficiary identification
+
+## Beneficiaries
+
+A beneficiary is the person or entity who receives the death benefit. You can name:
+- Primary beneficiary: First in line to receive benefits
+- Contingent beneficiary: Receives benefits if primary beneficiary cannot
+
+Tips for naming beneficiaries:
+- Keep beneficiary designations updated
+- Consider using percentages for multiple beneficiaries
+- Name specific individuals rather than "my children"
+- Review beneficiaries after major life events
