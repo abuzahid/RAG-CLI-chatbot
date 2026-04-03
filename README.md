@@ -68,7 +68,7 @@ copy .env.example .env
 
 ```bash
 git clone <repository-url>
-cd life-insurance-agent
+cd RAG-CLI-chatbot
 ```
 
 2. **Create virtual environment**
